@@ -1,2 +1,9 @@
 /**/*.DS_Store
-
+*.log
+docs/User_Manual/
+*-*.txt
+styles.css
+docs/Software_Requirement_Specification/[!SRS_final]*
+docs/Software_Design_Document/[!SDD_final]*
+**/README.md
+!README.md
